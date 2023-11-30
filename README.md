@@ -1,4 +1,5 @@
 # Proyecto-Machine-Learning-Final
+
 Introducción
 
 Este proyecto se centra en el desarrollo de un modelo de machine learning para predecir cancelaciones de reservas en un entorno hotelero. Se exploraron diversos algoritmos y técnicas para encontrar la mejor solución que permitiera maximizar la precisión y la sensibilidad del modelo.
