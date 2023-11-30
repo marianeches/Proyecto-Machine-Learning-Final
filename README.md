@@ -15,3 +15,7 @@ Se ha realizado un análisis exploratorio de los datos, destacando patrones y te
 -Metodología
 
 Se ha utilizado un pipeline que incluye escalado de características, selección de características y clasificación. Se han evaluado varios algoritmos, se ha utilizado GridSearchCV para ajustar los hiperparámetros y optimizar el rendimiento del modelo.
+
+-Fuente
+
+Base de datos obtenida mediante descarga en la web de Kaggle
